@@ -5,7 +5,7 @@
 
 ------
 
-!=[img](file:///E:/%E6%9D%90%E6%96%99/O1CN01jD31XW1CP195Yo6zS-101450072.jpg_Q75.jpg_.webp)
+!=[image](https://raw.githubusercontent.com/chi199702/The_C_Programming_Language_Answer/main/IMG/book.jpg_.webp)
 
 实验机器：<br/>
 NAME="CentOS Linux"<br/>
