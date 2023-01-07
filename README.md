@@ -5,7 +5,7 @@
 
 ------
 
-!=[image](https://raw.githubusercontent.com/chi199702/The_C_Programming_Language_Answer/main/IMG/book.jpg_.webp)
+![image](https://raw.githubusercontent.com/chi199702/The_C_Programming_Language_Answer/main/IMG/book.jpg_.webp)
 
 实验机器：<br/>
 NAME="CentOS Linux"<br/>
@@ -18,5 +18,5 @@ Linux kunpeng 5.4.0 #1 SMP Tue Dec 27 11:19:47 CST 2022 aarch64 aarch64 aarch64 
 
 ------
 ## 第 1 章 导言
-+ 练习 1.1 在你自己的系统中运行 “hello, world” 程序。再有意去掉程序中的部分内容，看看会得到什么出错信息。
-+ 练习 
++ 练习 1-1 在你自己的系统中运行 “hello, world” 程序。再有意去掉程序中的部分内容，看看会得到什么出错信息。
++ 练习 1-2 
